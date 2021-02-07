@@ -1,0 +1,55 @@
+/*Header Styling */
+header{
+  background: rgb(38, 74, 45);
+  color: rgb(230, 224, 213);
+  height: 85px;
+  text-align: center;
+  padding: 10px;
+  font-family: 'Courgette', cursive; /*imported style*/
+}
+/*General Body Styling*/
+img{
+  padding: 15px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+body{
+  background-color: rgb(230, 224, 213);
+  margin: 0;
+}
+a:link {color: #357045}
+a:visited {color:#9c641d;}
+a:active{color: #bf4a13;}
+
+/*Body Text and Placement Styling*/
+main{
+  padding-left: 10%;
+  padding-right: 10%;
+  font-family: 'Source Sans Pro', sans-serif; /*Imported style*/
+}
+hr {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+h1, h2, h3{
+text-align: center;
+}
+h1{
+  font-size: 35px;
+  margin: 5px;
+}
+h2{
+  font-size: 25px;
+}
+/*Footer Styling*/
+footer p{
+  font-size: 20px;
+  padding-top: 7px;
+}
+footer{
+  text-align: center;
+  background-color: rgb(38, 74, 45);
+  color: rgb(230, 224, 213);
+  height: 40px;
+}
